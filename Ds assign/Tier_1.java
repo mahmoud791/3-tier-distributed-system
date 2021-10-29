@@ -28,12 +28,11 @@ public class Tier_1
         while (true)
         {
 
-            sensor_1.start();
-            sensor_2.start();
-            camera_1.start();
-            camera_2.start();
+            sensor_1.run();
+            sensor_2.run();
+            camera_1.run();
+            camera_2.run();
         }
-        
 
 
 

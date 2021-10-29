@@ -24,7 +24,7 @@ public class Tier_2 {
 
             try
             {
-                computer.start();
+                computer.run();
             }
             catch(Exception e)
             {

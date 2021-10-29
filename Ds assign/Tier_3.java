@@ -18,7 +18,7 @@ public class Tier_3
             
             try
             {
-                server.start();
+                server.run();
             }
             catch(Exception e)
             {
